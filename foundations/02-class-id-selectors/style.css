@@ -1,0 +1,21 @@
+
+
+p { font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: pink;
+}
+
+h1 { font-size: 36px;
+    color: blue;
+}
+
+div { font-family:'Times New Roman', Times, serif;}
+
+.line4 { background-color: rgb(134, 252, 0);
+        font-weight: bold;
+
+}
+
+.line5 {font-size: small;
+
+
+}
